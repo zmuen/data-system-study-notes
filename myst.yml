@@ -24,6 +24,11 @@ project:
     - title: System Thinking
       children:
         - file: system-thinking/feedback-loops-in-infra.md
+    - title: GaTech Class Notes
+      children:
+        - title: Data Structures and Algorithms
+          children:
+            - file: gt-class-notes/data-structures-and-algos/divide-and-conquer-sorts.md
     - title: Contact
       children:
         - url: https://www.linkedin.com/in/muenzhang/
